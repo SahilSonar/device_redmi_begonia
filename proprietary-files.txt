@@ -1226,6 +1226,17 @@ vendor/lib64/libwifi-hal.so
 vendor/lib64/libwpa_client.so
 
 # Xiaomi
+etc/permissions/vendor-xiaomi-hardware-citsensorservice.xml
+etc/permissions/vendor.xiaomi.hardware.mtdservice-V1.0-java-permission.xml
+etc/permissions/vendor.xiaomi.hardware.mtdservice-V1.1-java-permission.xml
+framework/vendor.xiaomi.hardware.mtdservice-V1.0-java.jar
+framework/vendor.xiaomi.hardware.mtdservice-V1.1-java.jar
+lib/vendor.xiaomi.hardware.citsensorservice@1.0.so
+lib/vendor.xiaomi.hardware.citsensorservice@1.1.so
+lib/vendor.xiaomi.hardware.displayfeature@1.0.so
+lib64/vendor.xiaomi.hardware.citsensorservice@1.0.so
+lib64/vendor.xiaomi.hardware.citsensorservice@1.1.so
+lib64/vendor.xiaomi.hardware.displayfeature@1.0.so
 vendor/bin/hw/vendor.xiaomi.hardware.citsensorservice@1.1-service
 vendor/bin/hw/vendor.xiaomi.hardware.displayfeature@1.0-service
 vendor/etc/init/vendor.xiaomi.hardware.citsensorservice@1.1-service.rc
